@@ -5,7 +5,7 @@
 <h2 align="left">What is it ?</h2>
 
 <p align="center">
-  <img src="http://www.jbourdale.fr/wp-content/uploads/2017/09/Screenshot-from-2017-11-20-13-56-26.png" alt="my_ftl screenshot" align="center"/>
+  <img src="https://preview.ibb.co/i8zuyc/Screenshot_from_2018_04_28_09_01_29.png" alt="my_ftl screenshot" align="center"/>
 </p>
 
 My_FTL is a game where you have to fly thought 10 sectors to escape from enemis. 
